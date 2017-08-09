@@ -6,4 +6,8 @@ El objetivo de este repo es almacenar ideas, documentos, PoCs, etc, para un posi
 ## Ideas
 
 
+
 ## TODO
+
+  [ ] Definir lugar
+  [ ] Definir fecha
